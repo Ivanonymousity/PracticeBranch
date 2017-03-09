@@ -1,17 +1,39 @@
 testing here - - - - master
 test branches added.
 asdsadsadasdsadsadas
-<<<<<<< HEAD
-added another for instantiating a pull request.
-asdasdsadsadasdsadasdasdasdsa
-magpupush ako
+okay na?????
 
 
 
 
-nagbago na ang lahat
-=======
-added another for instantiating a pull request.dsfdsfsgfsffffdfdfdff
 
-njjnjnjnjnjnjn
->>>>>>> origin/branchtest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+asdasdasdasdsadsadsadasd
+..
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
